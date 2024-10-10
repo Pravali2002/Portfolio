@@ -18,6 +18,9 @@
 **Data Intern @ LTI Mindtree (_Feb 2023 — June 2023_)**
 - Received training in basic data science software and principles, significantly improving accuracy levels during the internship.
 
+**Data Intern @ Oriana Info Tech LLP (_Nov 2022 — Apr 2023_)**
+- Analyzed and visualized spatial data using Python, Seaborn, and Folium to identify patterns and trends. Developed interactive visualizations to present findings and support decision-making.
+
 ## Projects
 ### Contact Tracing using ML 
 Used **ML Modeling** mainly DBSCAN as my json file consisted of latitude and longitude information instead of phone numbers which helps in protecting the people's privacy. 
