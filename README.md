@@ -10,7 +10,7 @@
 
 
 ## Work Experience
-**Open source project @ HydroTek Farm (Github) (_May 2024 — Present_)**
+**Open source project @ HydroTek Farm (Github) (_May 2024 — Oct 2024_)**
 - Expanded the project by incorporating a camera for hydroponic farm disease detection and training a model with Roboflow to predict plant diseases and provide clients with remediation instructions.
 - The model will soon be integrated into an NVIDIA Jetson, which will be connected to an Iot box for real-time monitoring.
 - Led the charge in assembling data on particular plants and was instrumental in updating the status diagram.
