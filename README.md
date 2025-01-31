@@ -1,7 +1,7 @@
 # Portfolio
 # Data Science Enthusiast
 
-#### Technical Skills: Python, R, SQL, MATLAB, MongoDB, Tableau, Microsoft Office
+#### Technical Skills: Python, R, SQL, MATLAB, MongoDB, Tableau, Microsoft Office, Microsoft Azure, Snowflake
 #### Data Science Libraries: Pandas, NumPy, OpenCV, Matplotlib, Seaborn, sklearn, scikit-learn, TensorFlow, SciPy
 
 ## Education
@@ -10,6 +10,10 @@
 
 
 ## Work Experience
+**AI Intern @ HydroTek Farm LLC (Present)**
+-Assisting in the development and optimization of machine learning models for practical applications.
+-Exploring and implementing state-of-the-art AI frameworks such as TensorFlow, PyTorch, or scikit-learn.
+
 **Open source project @ HydroTek Farm (Github) (_May 2024 — Oct 2024_)**
 - Expanded the project by incorporating a camera for hydroponic farm disease detection and training a model with Roboflow to predict plant diseases and provide clients with remediation instructions.
 - The model will soon be integrated into an NVIDIA Jetson, which will be connected to an Iot box for real-time monitoring.
@@ -23,7 +27,7 @@
 
 ## Projects
 ### Dishcovery: Exploring the Indian Culinary Spectrum
-I delved into the diverse world of Indian cuisine by analyzing dietary patterns, ingredient distributions, and cooking times across various states. Leveraging Python and advanced data visualization libraries, I uncovered regional food trends and created engaging visual narratives to highlight the culinary diversity of India. To enhance insights, I developed interactive choropleth maps and sophisticated visualizations, along with a ranking algorithm to evaluate recipe complexity. Additionally, I employed Natural Language Processing (NLP) techniques to analyze ingredient frequencies, providing a deeper understanding of the elements that define India’s rich culinary heritage. This project blends data science and storytelling to celebrate the art of Indian cooking.
+I dived into the diverse world of Indian cuisine by analyzing dietary patterns, ingredient distributions, and cooking times across various states. Leveraging Python and advanced data visualization libraries, I uncovered regional food trends and created engaging visual narratives to highlight the culinary diversity of India. To enhance insights, I developed interactive choropleth maps and sophisticated visualizations, along with a ranking algorithm to evaluate recipe complexity. Additionally, I employed Natural Language Processing (NLP) techniques to analyze ingredient frequencies, providing a deeper understanding of the elements that define India’s rich culinary heritage. This project blends data science and storytelling to celebrate the art of Indian cooking.
 ![Food](assets/img/Food.jpg)
 ### Contact Tracing using ML 
 Used **ML Modeling** and developed and executed a Contact Tracing project using DBSCAN clustering and geospatial data, visualizing infected clusters with Folium and Seaborn for proximity-based analysis. My json file consisted of latitude and longitude information instead of phone numbers which helps in protecting the people's privacy.
