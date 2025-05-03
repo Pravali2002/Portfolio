@@ -34,16 +34,16 @@ Github, AWS, Azure, Snowflake, ZohoCRM
 - Analyzed and visualized spatial data using Python, Seaborn, and Folium to identify patterns and trends. Developed interactive visualizations to present findings and support decision-making.
 
 ## Projects
-### Dishcovery: Exploring the Indian Culinary Spectrum https://github.com/Pravali2002/Dishcovery
+### Dishcovery: Exploring the Indian Culinary Spectrum [Github](https://github.com/Pravali2002/Dishcovery)
 I dived into the diverse world of Indian cuisine by analyzing dietary patterns, ingredient distributions, and cooking times across various states. Leveraging Python and advanced data visualization libraries, I uncovered regional food trends and created engaging visual narratives to highlight the culinary diversity of India. To enhance insights, I developed interactive choropleth maps and sophisticated visualizations, along with a ranking algorithm to evaluate recipe complexity. Additionally, I employed Natural Language Processing (NLP) techniques to analyze ingredient frequencies, providing a deeper understanding of the elements that define India’s rich culinary heritage. This project blends data science and storytelling to celebrate the art of Indian cooking.
 ![Food](assets/img/Food.jpg)
 
-### Contact Tracing using ML https://github.com/Pravali2002/Contact-Tracing-Using-Machine-Learning
+### Contact Tracing using ML [Github](https://github.com/Pravali2002/Contact-Tracing-Using-Machine-Learning)
 Used **ML Modeling** and developed and executed a Contact Tracing project using DBSCAN clustering and geospatial data, visualizing infected clusters with Folium and Seaborn for proximity-based analysis. My json file consisted of latitude and longitude information instead of phone numbers which helps in protecting the people's privacy.
 Integrated real-time geolocation data to provide actionable insights into infection spread patterns and areas at risk, contributing to public health data science applications.
 ![ContactTracing](/assets/img/contacttracing.jpeg)
 
-### Crop recommendation system https://github.com/Pravali2002/The-Crop-Recommendation-System
+### Crop recommendation system [Github](https://github.com/Pravali2002/The-Crop-Recommendation-System)
 Machine learning techniques are utilized in various sectors, from evaluating customer behavior in supermarkets to predicting customer phone usage. 
 For some years, agriculture has been using machine learning techniques. Crop prediction is one of agriculture's complex challenges, and several models have been developed and proven so far. 
 ![Croprecommend](/assets/img/croprecommendation.png)
@@ -56,10 +56,10 @@ Developed an online food ordering system for easy order placement, order trackin
 ![EmotionalEating](/assets/img/EmotionalEatingBED.jpg)
 Together with the types of cuisine I added food that are often consumed during particular season to make the taste palate of the user happy at that time. I took an idea from emotional eating topic and provided the user an option to store their food according to their mood.
 
-### Music genre classification  https://github.com/Pravali2002/MusicGenreClassification
+### Music genre classification  [Github](https://github.com/Pravali2002/MusicGenreClassification)
 This system accurately categorizes songs based on their style, which supports music recommendation systems, personalized playlists, and targeted marketing strategies for various domains, including streaming platforms, radio stations, and advertising using Machine Learning classification models.
 
-### Do Left hand People Really Die Young https://github.com/Pravali2002/Do-left-hand-people-die-young-
+### Do Left hand People Really Die Young [Github](https://github.com/Pravali2002/Do-left-hand-people-die-young-)
 The percentage of left-handed people did increase significantly in the 20th century. The primary goal is to dispel the myth that people die young from sin, which is one of the most ridiculous excuses we are told. And to prove this I used **Bayes' rule** 
 ![Lefthand](/assets/img/left.jpg)
 Research suggests left-handed individuals may live shorter lives due to increased risks in a right-handed dominated world. 
