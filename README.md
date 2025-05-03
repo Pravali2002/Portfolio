@@ -1,8 +1,16 @@
 # Portfolio
-# Data Science Enthusiast
-
-#### Technical Skills: Python, R, SQL, MATLAB, MongoDB, Tableau, Microsoft Office, Microsoft Azure, Snowflake, Alteryx
-#### Data Science Libraries: Pandas, NumPy, OpenCV, Matplotlib, Seaborn, sklearn, scikit-learn, TensorFlow, SciPy
+# Data Enthusiast
+#### Technical Skills:
+##### Gen AI:
+AWS Bedrock, Bedrock Knowledge bases, Retrieval-Augmented Generation (RAG), OpenAI API, Ollama, Mistral AI, Hugging Face, Anthropic Claude
+##### Programming Languages: 
+Python, R, Matlab
+##### Databases: 
+SQL, MongoDB, PostgreSQL, Redis, NoSQL
+##### Data Science, Analysis & Visualization: 
+RStudio, Pandas, Numpy, Matplotlib, OpenCV, Seaborn, SKlearn, TensorFlow, SciPy, PyTorch, Jupyter, Tableau, MS Excel
+##### Tools/Technologies: 
+Github, AWS, Azure, Snowflake, ZohoCRM
 
 ## Education
 - M.S.Computer Science | University of Central Missouri (Expected Graduation, May 2025)								       			 			        		
@@ -11,8 +19,8 @@
 
 ## Work Experience
 **AI Intern @ HydroTek Farm LLC (Present)**
--Assisting in the development and optimization of machine learning models for practical applications.
--Exploring and implementing state-of-the-art AI frameworks such as TensorFlow, PyTorch, or scikit-learn.
+–	Developing an AI-based system to analyse plant health and detection anomalies through image inputs, improving decision-making accuracy and contributing to customer satisfaction.Deployed scaled AI solutions using AWS BedRock, integrating automated health reporting workflows for real-time insights.
+-Exploring and implementing state-of-the-art AI frameworks.
 
 **Open source project @ HydroTek Farm (Github) (_May 2024 — Oct 2024_)**
 - Expanded the project by incorporating a camera for hydroponic farm disease detection and training a model with Roboflow to predict plant diseases and provide clients with remediation instructions.
