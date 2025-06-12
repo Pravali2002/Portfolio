@@ -18,7 +18,7 @@ Github, AWS, Azure, Snowflake, ZohoCRM
 
 
 ## Work Experience
-**AI Intern @ HydroTek Farm LLC (Present)**
+**AI Intern @ HydroTek Farm LLC (_Jan 2025 — May 2025_)**
 –	Developing an AI-based system to analyse plant health and detection anomalies through image inputs, improving decision-making accuracy and contributing to customer satisfaction.Deployed scaled AI solutions using AWS BedRock, integrating automated health reporting workflows for real-time insights.
 -Exploring and implementing state-of-the-art AI frameworks.
 
@@ -34,6 +34,11 @@ Github, AWS, Azure, Snowflake, ZohoCRM
 - Analyzed and visualized spatial data using Python, Seaborn, and Folium to identify patterns and trends. Developed interactive visualizations to present findings and support decision-making.
 
 ## Projects
+### ScrubPrep: AI-Powered Medical Exam Assistant [Github](https://github.com/Pravali2002/ScrubPrep)
+Motivated by my sister’s struggle with dense medical textbooks during her postgraduate exam prep, I set out to build ScrubPrep — an AI assistant that answers clinical questions by grounding responses in real textbook content. Using Retrieval-Augmented Generation (RAG), the chatbot accurately retrieves and synthesizes information from custom-ingested medical PDFs to provide clear, trustworthy explanations tailored to medical students.
+To bring this idea to life, I leveraged LangChain, FAISS, and Pinecone for semantic search, paired with FastAPI and basic UI to deliver an intuitive full-stack experience. I collaborated closely with my sister to test the assistant using real exam-style questions, fine-tuning the system to prioritize clarity, accuracy, and zero hallucination.
+This project blends AI, information retrieval, and domain-specific evaluation to demonstrate how well-grounded generative models can transform learning experiences in high-stakes fields like medicine.
+
 ### Dishcovery: Exploring the Indian Culinary Spectrum [Github](https://github.com/Pravali2002/Dishcovery)
 I dived into the diverse world of Indian cuisine by analyzing dietary patterns, ingredient distributions, and cooking times across various states. Leveraging Python and advanced data visualization libraries, I uncovered regional food trends and created engaging visual narratives to highlight the culinary diversity of India. To enhance insights, I developed interactive choropleth maps and sophisticated visualizations, along with a ranking algorithm to evaluate recipe complexity. Additionally, I employed Natural Language Processing (NLP) techniques to analyze ingredient frequencies, providing a deeper understanding of the elements that define India’s rich culinary heritage. This project blends data science and storytelling to celebrate the art of Indian cooking.
 ![Food](assets/img/Food.jpg)
