@@ -18,6 +18,11 @@ Github, AWS, Azure, Snowflake, ZohoCRM
 
 
 ## Work Experience
+**AI Intern (Full Time) @ HydroTek Farm LLC (_June 2025 — Present_)**
+–	Designing and executed benchmark evaluations across Claude, GPT, Mistral, and Bedrock for plant disease diagnostics, improving
+top-3 model accuracy and increasing test yield forecasting accuracy by 12%.
+–	Building a GitLab-driven CI/CD pipeline for a Flutter + Firebase app using AWS serverless stack (S3 triggers → Lambda → Bedrock for AI inference → DynamoDB); deploying via SAM with CloudWatch logging, alarms, and secure environment variable management.
+
 **AI Intern @ HydroTek Farm LLC (_Jan 2025 — May 2025_)**
 –	Developing an AI-based system to analyse plant health and detection anomalies through image inputs, improving decision-making accuracy and contributing to customer satisfaction.Deployed scaled AI solutions using AWS BedRock, integrating automated health reporting workflows for real-time insights.
 -Exploring and implementing state-of-the-art AI frameworks.
