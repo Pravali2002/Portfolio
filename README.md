@@ -25,7 +25,7 @@ top-3 model accuracy and increasing test yield forecasting accuracy by 12%.
 
 **AI Intern @ HydroTek Farm LLC (_Jan 2025 — May 2025_)**
 –	Developing an AI-based system to analyse plant health and detection anomalies through image inputs, improving decision-making accuracy and contributing to customer satisfaction.Deployed scaled AI solutions using AWS BedRock, integrating automated health reporting workflows for real-time insights.
--Exploring and implementing state-of-the-art AI frameworks.
+-Exploring and implementing state-of-the-art AI frameworks..
 
 **Open source project @ HydroTek Farm (Github) (_May 2024 — Oct 2024_)**
 - Expanded the project by incorporating a camera for hydroponic farm disease detection and training a model with Roboflow to predict plant diseases and provide clients with remediation instructions.
