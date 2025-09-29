@@ -13,29 +13,27 @@ RStudio, Pandas, Numpy, Matplotlib, OpenCV, Seaborn, SKlearn, TensorFlow, SciPy,
 Github, AWS, Azure, Snowflake, ZohoCRM
 
 ## Education
-- M.S.Computer Science | University of Central Missouri (Expected Graduation, May 2025)								       			 			        		
-- B.Tech.Computer Science(Spl DataAnalytics) | Vellore Institute of Technology (May 2023)
+- M.S.Computer Science | University of Central Missouri 						       			 			        		
+- B.Tech.Computer Science(Spl DataAnalytics) | Vellore Institute of Technology
 
 
 ## Work Experience
-**AI Intern (Full Time) @ HydroTek Farm LLC (_June 2025 — Present_)**
+**AI Engineer (Full Time) @ HydroTek Farm LLC (_Jan 2025 — Present_)**
 –	Designing and executed benchmark evaluations across Claude, GPT, Mistral, and Bedrock for plant disease diagnostics, improving
 top-3 model accuracy and increasing test yield forecasting accuracy by 12%.
 –	Building a GitLab-driven CI/CD pipeline for a Flutter + Firebase app using AWS serverless stack (S3 triggers → Lambda → Bedrock for AI inference → DynamoDB); deploying via SAM with CloudWatch logging, alarms, and secure environment variable management.
-
-**AI Intern @ HydroTek Farm LLC (_Jan 2025 — May 2025_)**
 –	Developing an AI-based system to analyse plant health and detection anomalies through image inputs, improving decision-making accuracy and contributing to customer satisfaction.Deployed scaled AI solutions using AWS BedRock, integrating automated health reporting workflows for real-time insights.
 -Exploring and implementing state-of-the-art AI frameworks.
 
-**Open source project @ HydroTek Farm (Github) (_May 2024 — Oct 2024_)**
+**Open source contribution @ HydroTek Farm (Github) (_May 2024 — Oct 2024_)**
 - Expanded the project by incorporating a camera for hydroponic farm disease detection and training a model with Roboflow to predict plant diseases and provide clients with remediation instructions.
 - The model will soon be integrated into an NVIDIA Jetson, which will be connected to an Iot box for real-time monitoring.
 - Led the charge in assembling data on particular plants and was instrumental in updating the status diagram.
 
-**Data Intern @ LTI Mindtree (_Feb 2023 — June 2023_)**
+**Data Science Intern @ LTI Mindtree (_Feb 2023 — June 2023_)**
 - Received training in basic data science software and principles, significantly improving accuracy levels during the internship.
 
-**Data Intern @ Oriana Info Tech LLP (_Nov 2022 — Apr 2023_)**
+**Data Scientist @ Oriana Info Tech LLP (_Nov 2022 — Apr 2023_)**
 - Analyzed and visualized spatial data using Python, Seaborn, and Folium to identify patterns and trends. Developed interactive visualizations to present findings and support decision-making.
 
 ## Projects
