@@ -1,7 +1,8 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=32&pause=1000&color=4E9FEC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pravalika+Somisetty+%F0%9F%9A%80;AI+Engineer+%7C+Data+Analyst+%7C+GenAI+Builder;I+Build+AI+Systems+That+Create+Impact+%F0%9F%94%A5;Data+Computer+Vision+%7C+RAG+%7C+LLMs+%7C+Cloud+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=32&pause=1000&color=4E9FEC&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Data+Analyst+%7C+GenAI+Builder;I+Build+AI+Systems+That+Create+Impact+%F0%9F%94%A5;Computer+Vision+%7C+RAG+%7C+LLMs+%7C+Cloud+AI" />
 </h1>
+
 
 <p align="center">
   <b>AI/ML Engineer specializing in LLMs, RAG architectures, Computer Vision, Data and Cloud-native AI systems.</b><br>
