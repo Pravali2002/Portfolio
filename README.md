@@ -1,77 +1,165 @@
-# Portfolio
-# Data Enthusiast
-#### Technical Skills:
-##### Gen AI:
-AWS Bedrock, Bedrock Knowledge bases, Retrieval-Augmented Generation (RAG), OpenAI API, Ollama, Mistral AI, Hugging Face, Anthropic Claude
-##### Programming Languages: 
-Python, R, Matlab
-##### Databases: 
-SQL, MongoDB, PostgreSQL, Redis, NoSQL
-##### Data Science, Analysis & Visualization: 
-RStudio, Pandas, Numpy, Matplotlib, OpenCV, Seaborn, SKlearn, TensorFlow, SciPy, PyTorch, Jupyter, Tableau, MS Excel
-##### Tools/Technologies: 
-Github, AWS, Azure, Snowflake, ZohoCRM
+<!-- Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=32&pause=1000&color=4E9FEC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pravalika+Somisetty+%F0%9F%9A%80;AI+Engineer+%7C+Data+Analyst+%7C+GenAI+Builder;I+Build+AI+Systems+That+Create+Impact+%F0%9F%94%A5;Data+Computer+Vision+%7C+RAG+%7C+LLMs+%7C+Cloud+AI" />
+</h1>
 
-## Education
-- M.S.Computer Science | University of Central Missouri 						       			 			        		
-- B.Tech.Computer Science(Spl DataAnalytics) | Vellore Institute of Technology
+<p align="center">
+  <b>AI/ML Engineer specializing in LLMs, RAG architectures, Computer Vision, Data and Cloud-native AI systems.</b><br>
+  Passionate about building end-to-end intelligent systems that solve real-world problems.
+</p>
+
+---
+
+## 🌟 **About Me**
+
+🎓 *MS in Computer Science*  
+🤖 AI Engineer working on GenAI, LLMs, RAG, Data and Computer Vision 
+⚙️ Build end-to-end ML pipelines, deploy AI systems on AWS, and experiment with advanced model architectures  
+🌱 I love turning raw ideas → production AI systems  
+📍 Frisco, TX (Open to relocation)
+
+---
+
+# 🧠 **Tech Stack**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,aws,azure,github,postgres,figma&perline=7" />
+</p>
+
+### 🔥 GenAI & LLM Frameworks  
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=Chainlink&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/LangSmith-000?style=for-the-badge&logo=Chainlink&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/HuggingFace-F8D82C?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VectorDB-FAISS%2FPinecone-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 **Experience**
+## **fAIshion Inc — Quality Assurance Intern *(Dec 2025 — Present)*
+👗 Supporting end-to-end AI product testing, validating LLM and CV feature behavior across multiple workflows.
+
+👗 Helping update and enhance the internal QA testing platform, improving workflow efficiency and test coverage.
+
+---
+
+## **AI Engineer — HydroTek Farm LLC** *(Jan 2025 — Present)*  
+🌱 Designed, fine-tuned, and evaluated ML + LLM models (GPT, Claude, Mistral, Pixtral, LLaMA, Qwen) for plant disease diagnostics, improving top-3 accuracy and forecasting by 12%.
+
+🌱 Built a GitLab-driven CI/CD pipeline for a Flutter + Firebase app using AWS serverless stack:
+S3 → Lambda → Bedrock → DynamoDB, deployed via SAM with CloudWatch alarms & secure env variables.
+
+🌱 Implementing multi-agent workflows using LangChain + MCP for automated anomaly detection and crop-health analysis.
+
+🌱 Developing scalable CV + LLM hybrid systems to classify plant diseases and generate actionable reports for growers.
+
+🌱 Deploying Bedrock-based inference services supporting real-time hydroponic monitoring at scale.
+
+---
+
+## **AI Engineer — HydroTek Farm LLC** *(Jan 2025 — May 2025)*  
+🌱 Fine-tuned LLaMA using LoRA for plant-disease recognition, reaching 95%+ classification accuracy across hydroponic crop datasets.
+
+🌱 Built LLMOps workflows for model deployment, monitoring, and optimization using AWS Bedrock, Lambda, and LangChain Agents.
+
+🌱 Ensured responsible and ethical AI use during data collection, evaluation, and model deployment.
+
+🌱 Collaborated with agronomists and engineering teams to align AI outputs with operational decision-making.
+
+🌱 Developed evaluation pipelines for multi-class CV models and LLM inference consistency checks.
+
+---
+
+## **Open-Source AI Contributor — HydroTek Farm LLC**  *(May 2024 — Oct 2024)*
+📷 Designed CNNs via TensorFlow, Roboflow  
+
+🤖 Curated plant-specific datasets and annotation guidelines used in subsequent production ML systems.
+
+📚 Authored project documentation, ML workflow guides, and updated system state diagrams for easier contributor onboarding.
+
+---
+
+## **Data Science Intern — LTI Mindtree**  *(Feb 2023 — Jun 2023)*
+📊 Completed an intensive data science training program focused on statistics, analytics, and ML fundamentals.
+
+📊 Gained hands-on experience with data preprocessing, exploratory analysis, and results communication.
+
+📊 Recognized as a top-performing intern for analytical rigor and rapid learning.
+
+---
+
+## **Data Science Intern — Oriana Info Tech LLP**  *(Nov 2022 — Apr 2023)*
+🗺 Analyzed and visualized geospatial health datasets using Python, Folium, Seaborn, and Pandas to uncover risk clusters. 
+
+🗺 Built clustering and regression models to identify anomaly zones and high-risk demographic regions.
+
+🗺 Delivered interactive dashboards and visual narratives to support public health insights and decision-making.
 
 
-## Work Experience
-**AI Engineer (Full Time) @ HydroTek Farm LLC (_Jan 2025 — Present_)**
-–	Designing and executed benchmark evaluations across Claude, GPT, Mistral, and Bedrock for plant disease diagnostics, improving
-top-3 model accuracy and increasing test yield forecasting accuracy by 12%.
-–	Building a GitLab-driven CI/CD pipeline for a Flutter + Firebase app using AWS serverless stack (S3 triggers → Lambda → Bedrock for AI inference → DynamoDB); deploying via SAM with CloudWatch logging, alarms, and secure environment variable management.
-–	Developing an AI-based system to analyse plant health and detection anomalies through image inputs, improving decision-making accuracy and contributing to customer satisfaction.Deployed scaled AI solutions using AWS BedRock, integrating automated health reporting workflows for real-time insights.
--Exploring and implementing state-of-the-art AI frameworks.
+---
 
-**Open source contribution @ HydroTek Farm (Github) (_May 2024 — Oct 2024_)**
-- Expanded the project by incorporating a camera for hydroponic farm disease detection and training a model with Roboflow to predict plant diseases and provide clients with remediation instructions.
-- The model will soon be integrated into an NVIDIA Jetson, which will be connected to an Iot box for real-time monitoring.
-- Led the charge in assembling data on particular plants and was instrumental in updating the status diagram.
+# 🛠️ **Featured Projects**
 
-**Data Science Intern @ LTI Mindtree (_Feb 2023 — June 2023_)**
-- Received training in basic data science software and principles, significantly improving accuracy levels during the internship.
+---
 
-**Data Scientist @ Oriana Info Tech LLP (_Nov 2022 — Apr 2023_)**
-- Analyzed and visualized spatial data using Python, Seaborn, and Folium to identify patterns and trends. Developed interactive visualizations to present findings and support decision-making.
+## 🩺 **ScrubPrep — AI Medical Exam Assistant**
+**RAG + LLM System | LangChain | Pinecone | FAISS | FastAPI**
 
-## Projects
-### ScrubPrep: AI-Powered Medical Exam Assistant [Github](https://github.com/Pravali2002/ScrubPrep)
-Motivated by my sister’s struggle with dense medical textbooks during her postgraduate exam prep, I set out to build ScrubPrep — an AI assistant that answers clinical questions by grounding responses in real textbook content. Using Retrieval-Augmented Generation (RAG), the chatbot accurately retrieves and synthesizes information from custom-ingested medical PDFs to provide clear, trustworthy explanations tailored to medical students.
-To bring this idea to life, I leveraged LangChain, FAISS, and Pinecone for semantic search, paired with FastAPI and basic UI to deliver an intuitive full-stack experience. I collaborated closely with my sister to test the assistant using real exam-style questions, fine-tuning the system to prioritize clarity, accuracy, and zero hallucination.
-This project blends AI, information retrieval, and domain-specific evaluation to demonstrate how well-grounded generative models can transform learning experiences in high-stakes fields like medicine.
+- Built a RAG model trained on real 2000+ pages of medical textbooks  
+- Evaluated on 50 exam-style questions → **94% accuracy**  
+- Reduced hallucinations by **37%** with retriever tuning  
+- Designed conversational UI + simulated clinical reasoning  
 
-### Dishcovery: Exploring the Indian Culinary Spectrum [Github](https://github.com/Pravali2002/Dishcovery)
-I dived into the diverse world of Indian cuisine by analyzing dietary patterns, ingredient distributions, and cooking times across various states. Leveraging Python and advanced data visualization libraries, I uncovered regional food trends and created engaging visual narratives to highlight the culinary diversity of India. To enhance insights, I developed interactive choropleth maps and sophisticated visualizations, along with a ranking algorithm to evaluate recipe complexity. Additionally, I employed Natural Language Processing (NLP) techniques to analyze ingredient frequencies, providing a deeper understanding of the elements that define India’s rich culinary heritage. This project blends data science and storytelling to celebrate the art of Indian cooking.
-![Food](assets/img/Food.jpg)
+👉 *[GitHub](https://github.com/Pravali2002/ScrubPrep)*
 
-### Contact Tracing using ML [Github](https://github.com/Pravali2002/Contact-Tracing-Using-Machine-Learning)
-Used **ML Modeling** and developed and executed a Contact Tracing project using DBSCAN clustering and geospatial data, visualizing infected clusters with Folium and Seaborn for proximity-based analysis. My json file consisted of latitude and longitude information instead of phone numbers which helps in protecting the people's privacy.
-Integrated real-time geolocation data to provide actionable insights into infection spread patterns and areas at risk, contributing to public health data science applications.
-![ContactTracing](/assets/img/contacttracing.jpeg)
+---
 
-### Crop recommendation system [Github](https://github.com/Pravali2002/The-Crop-Recommendation-System)
-Machine learning techniques are utilized in various sectors, from evaluating customer behavior in supermarkets to predicting customer phone usage. 
-For some years, agriculture has been using machine learning techniques. Crop prediction is one of agriculture's complex challenges, and several models have been developed and proven so far. 
-![Croprecommend](/assets/img/croprecommendation.png)
-Agriculture is the main industry that generates income for the majority of developing nations. The field of modern agriculture is always expanding in terms of farming methods and agricultural advancements.
-The project used machine learning to estimate the best crop for each area, automating the process with **Microsoft FLAML**. It compared the accuracy of models like **KNN, SVM, Naive Bayes, Decision Trees, and Random Forests** to recommend the optimal crop for specific environments.
-Started this as a Capstone project and presented it at the **INTERNATIONAL CUKUROVA AGRICULTURE AND VETERINARY CONGRESS** Conference.
-### Online Food Ordering System website (Emotional Eating) 
-Developed an online food ordering system for easy order placement, order tracking, and improved delivery service. The system includes mood-based food preferences. Utilized MySQL, PHP, HTML, and AWS (EC2, Cognito, RDS, Route53, VPC).
-**What's so new??**
-![EmotionalEating](/assets/img/EmotionalEatingBED.jpg)
-Together with the types of cuisine I added food that are often consumed during particular season to make the taste palate of the user happy at that time. I took an idea from emotional eating topic and provided the user an option to store their food according to their mood.
+## 🥘 **Dishcovery — Indian Cuisine Analytics**
+- Interactive dashboards revealing regional cuisine patterns  
+- NLP to find ingredient frequencies + recipe complexity score  
 
-### Music genre classification  [Github](https://github.com/Pravali2002/MusicGenreClassification)
-This system accurately categorizes songs based on their style, which supports music recommendation systems, personalized playlists, and targeted marketing strategies for various domains, including streaming platforms, radio stations, and advertising using Machine Learning classification models.
+👉 *[GitHub](https://github.com/Pravali2002/Dishcovery)*
 
-### Do Left hand People Really Die Young [Github](https://github.com/Pravali2002/Do-left-hand-people-die-young-)
-The percentage of left-handed people did increase significantly in the 20th century. The primary goal is to dispel the myth that people die young from sin, which is one of the most ridiculous excuses we are told. And to prove this I used **Bayes' rule** 
-![Lefthand](/assets/img/left.jpg)
-Research suggests left-handed individuals may live shorter lives due to increased risks in a right-handed dominated world. 
+---
 
-## Publications
-[Publication](https://www.igi-global.com/chapter/medical-information-modeling-for-diabetes-based-on-logistic-regression/306170)
-**Medical Information Modeling for Diabetes** Based on Logistic Regression Karthika Natarajan, Anjali Gautam, Pravalika Somisetty, Ramya Venigalla, Veeramachaneni Jhansi Lekha. Handbook of Research on Mathematical Modeling for Smart Healthcare Systems. 
+## 📍 **Contact Tracing Using ML**
+- Used DBSCAN clustering on geospatial JSON data  
+- Built Folium heatmaps to visualize infection spread  
+
+👉 *[GitHub](https://github.com/Pravali2002/Contact-Tracing-Using-Machine-Learning)*  
+
+---
+
+## 🌾 **Crop Recommendation System**
+- Machine Learning (RF, SVM, NB, KNN, DT)  
+- Automated hyperparameter tuning with FLAML  
+- Presented at **International Agriculture & Veterinary Congress**  
+
+👉 *[GitHub](https://github.com/Pravali2002/The-Crop-Recommendation-System)*  
+
+---
+
+# 📚 **Publication**
+
+📄 *Medical Information Modeling for Diabetes Based on Logistic Regression*  
+**IGI Global — Smart Healthcare Systems**
+
+---
+
+# 🌐 **Let’s Connect**<p align="center">
+  <a href="https://www.linkedin.com/in/somisetty-pravalika-48333a21a/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Portfolio-4E9FEC?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="mailto:somisettypravalika@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+<h3 align="center">✨ Thanks for visiting my profile! Let’s build something intelligent together. ✨</h3>
