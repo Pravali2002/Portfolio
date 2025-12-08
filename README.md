@@ -153,8 +153,8 @@ S3 → Lambda → Bedrock → DynamoDB, deployed via SAM with CloudWatch alarms 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Portfolio-4E9FEC?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://github.com/Pravali2002" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Github-4E9FEC?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
   <a href="mailto:somisettypravalika@gmail.com">
