@@ -148,7 +148,7 @@ S3 → Lambda → Bedrock → DynamoDB, deployed via SAM with CloudWatch alarms 
 
 ---
 
-# 🌐 **Let’s Connect**<p align="center">
+# 🌐 **Let’s Connect** 
   <a href="https://www.linkedin.com/in/somisetty-pravalika-48333a21a/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
