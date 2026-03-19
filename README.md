@@ -28,9 +28,10 @@
 </p>
 
 ### 🔥 GenAI & LLM Systems
-`LangChain` `LangGraph` `LangSmith`  
-`RAG` `Prompt Engineering` `Agent Systems`  
-`MCP` `FAISS` `Pinecone`  
+
+`LangChain` • `LangGraph` • `LangSmith`  
+`RAG` • `Prompt Engineering` • `Agent Systems`  
+`MCP` • `FAISS` • `Pinecone`
 
 ---
 
