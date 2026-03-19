@@ -1,143 +1,160 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=32&pause=1000&color=4E9FEC&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Data+Analyst+%7C+GenAI+Builder;I+Build+AI+Systems+That+Create+Impact+%F0%9F%94%A5;Computer+Vision+%7C+RAG+%7C+LLMs+%7C+Cloud+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=32&pause=1000&color=4E9FEC&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+LLM+Systems+%7C+Agentic+AI;Building+Production+AI+Systems+%F0%9F%94%A5;RAG+%7C+Agents+%7C+Cloud+AI+%7C+MCP" />
 </h1>
 
 
 <p align="center">
-  <b>AI/ML Engineer specializing in LLMs, RAG architectures, Computer Vision, Data and Cloud-native AI systems.</b><br>
-  Passionate about building end-to-end intelligent systems that solve real-world problems.
+  <b>AI/ML Engineer specializing in LLM systems, agentic AI architectures, and cloud-native AI applications.</b><br>
+  I build end-to-end intelligent systems from data → models → production deployment.
 </p>
 
 ---
 
-## 🌟 **About Me**
+# 🌟 About Me
 
-🎓 *MS in Computer Science*  
-🤖 AI Engineer working on GenAI, LLMs, RAG, Data and Computer Vision 
-⚙️ Build end-to-end ML pipelines, deploy AI systems on AWS, and experiment with advanced model architectures  
-🌱 I love turning raw ideas → production AI systems  
+🎓 MS in Computer Science  
+🤖 AI Engineer working on LLMs, RAG, agents, and cloud AI systems  
+⚙️ Building production AI systems using AWS + Google Cloud  
+🌱 Passionate about turning ideas → real-world AI products  
 📍 Frisco, TX (Open to relocation)
 
 ---
 
-# 🧠 **Tech Stack**  
+# 🧠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,aws,azure,github,postgres,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,aws,docker,github,postgres&perline=6" />
 </p>
 
-### 🔥 GenAI & LLM Frameworks  
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=Chainlink&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/LangSmith-000?style=for-the-badge&logo=Chainlink&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/HuggingFace-F8D82C?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VectorDB-FAISS%2FPinecone-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
+### 🔥 GenAI & LLM Systems
+`LangChain` `LangGraph` `LangSmith`  
+`RAG` `Prompt Engineering` `Agent Systems`  
+`MCP` `FAISS` `Pinecone`  
 
 ---
 
-# 🚀 **Experience**
-## **fAIshion Inc — Quality Assurance Intern *(Dec 2025 — Present)*
-👗 Supporting end-to-end AI product testing, validating LLM and CV feature behavior across multiple workflows.
-
-👗 Helping update and enhance the internal QA testing platform, improving workflow efficiency and test coverage.
+# 🚀 Featured AI Systems
 
 ---
 
-## **AI Engineer — HydroTek Farm LLC** *(Jan 2025 — Present)*  
-🌱 Designed, fine-tuned, and evaluated ML + LLM models (GPT, Claude, Mistral, Pixtral, LLaMA, Qwen) for plant disease diagnostics, improving top-3 accuracy and forecasting by 12%.
+## ⚙️ AI DevOps Assistant  
+**Agentic AI + Cloud Infrastructure**
 
-🌱 Built a GitLab-driven CI/CD pipeline for a Flutter + Firebase app using AWS serverless stack:
-S3 → Lambda → Bedrock → DynamoDB, deployed via SAM with CloudWatch alarms & secure env variables.
+- Built an **agentic AI system using MCP** to interact with AWS infrastructure  
+- Enabled **LLM tool-calling workflows** for CloudWatch logs and resource inspection  
+- Designed architecture: LLM → MCP tools → AWS APIs
+- Demonstrates **AI + cloud + system orchestration**
 
-🌱 Implementing multi-agent workflows using LangChain + MCP for automated anomaly detection and crop-health analysis.
-
-🌱 Developing scalable CV + LLM hybrid systems to classify plant diseases and generate actionable reports for growers.
-
-🌱 Deploying Bedrock-based inference services supporting real-time hydroponic monitoring at scale.
+👉 *[Github](https://github.com/Pravali2002/aws-devops-assistant)*  
 
 ---
 
-## **AI Engineer — HydroTek Farm LLC** *(Jan 2025 — May 2025)*  
-🌱 Fine-tuned LLaMA using LoRA for plant-disease recognition, reaching 95%+ classification accuracy across hydroponic crop datasets.
+## 🧠 ScrubPrep — Medical RAG Assistant  
 
-🌱 Built LLMOps workflows for model deployment, monitoring, and optimization using AWS Bedrock, Lambda, and LangChain Agents.
+- Built RAG system on **2000+ pages of medical content**  
+- Achieved **94% accuracy** on exam-style questions  
+- Reduced hallucination by **37%**  
+- Designed FastAPI backend + retrieval pipeline  
 
-🌱 Ensured responsible and ethical AI use during data collection, evaluation, and model deployment.
-
-🌱 Collaborated with agronomists and engineering teams to align AI outputs with operational decision-making.
-
-🌱 Developed evaluation pipelines for multi-class CV models and LLM inference consistency checks.
+👉 *[GitHub](https://github.com/Pravali2002/ScrubPrep)* 
 
 ---
 
-## **Open-Source AI Contributor — HydroTek Farm LLC**  *(May 2024 — Oct 2024)*
-📷 Designed CNNs via TensorFlow, Roboflow  
+## 📈 CareerPulse — AI Agent System  
 
-🤖 Curated plant-specific datasets and annotation guidelines used in subsequent production ML systems.
-
-📚 Authored project documentation, ML workflow guides, and updated system state diagrams for easier contributor onboarding.
-
----
-
-## **Data Science Intern — LTI Mindtree**  *(Feb 2023 — Jun 2023)*
-📊 Completed an intensive data science training program focused on statistics, analytics, and ML fundamentals.
-
-📊 Gained hands-on experience with data preprocessing, exploratory analysis, and results communication.
-
-📊 Recognized as a top-performing intern for analytical rigor and rapid learning.
+- Built **agent-based AI assistant** deployed on Google Cloud Run  
+- Implemented MCP + ADK agents for structured tool-based reasoning  
+- Tracks learning progress, job applications, and user context  
 
 ---
 
-## **Data Science Intern — Oriana Info Tech LLP**  *(Nov 2022 — Apr 2023)*
-🗺 Analyzed and visualized geospatial health datasets using Python, Folium, Seaborn, and Pandas to uncover risk clusters. 
-
-🗺 Built clustering and regression models to identify anomaly zones and high-risk demographic regions.
-
-🗺 Delivered interactive dashboards and visual narratives to support public health insights and decision-making.
-
+# 🧪 Additional ML & Data Projects
 
 ---
 
-# 🛠️ **Featured Projects**
+## 🏏 Cricket Data Pipeline (Snowflake)
+
+- Built OLAP pipeline using **Snowflake + Snowpipe**  
+- Processed semi-structured data into analytics-ready format  
+- Improved performance tracking by **25%**
+
+👉 *[GitHub](https://github.com/Pravali2002/Cricket-Data-Integration-and-Visualization)*
 
 ---
 
-## 🩺 **ScrubPrep — AI Medical Exam Assistant**
-**RAG + LLM System | LangChain | Pinecone | FAISS | FastAPI**
+## 🗺 Contact Tracing (ML + Geospatial)
 
-- Built a RAG model trained on real 2000+ pages of medical textbooks  
-- Evaluated on 50 exam-style questions → **94% accuracy**  
-- Reduced hallucinations by **37%** with retriever tuning  
-- Designed conversational UI + simulated clinical reasoning  
-
-👉 *[GitHub](https://github.com/Pravali2002/ScrubPrep)*
-
----
-
-## 🥘 **Dishcovery — Indian Cuisine Analytics**
-- Interactive dashboards revealing regional cuisine patterns  
-- NLP to find ingredient frequencies + recipe complexity score  
-
-👉 *[GitHub](https://github.com/Pravali2002/Dishcovery)*
-
----
-
-## 📍 **Contact Tracing Using ML**
-- Used DBSCAN clustering on geospatial JSON data  
-- Built Folium heatmaps to visualize infection spread  
+- Applied **DBSCAN clustering** on geolocation data  
+- Built Folium heatmaps for outbreak visualization
 
 👉 *[GitHub](https://github.com/Pravali2002/Contact-Tracing-Using-Machine-Learning)*  
 
 ---
 
-## 🌾 **Crop Recommendation System**
-- Machine Learning (RF, SVM, NB, KNN, DT)  
-- Automated hyperparameter tuning with FLAML  
-- Presented at **International Agriculture & Veterinary Congress**  
+## 🌾 Crop Recommendation System
+
+- Compared ML models (RF, SVM, NB, KNN, DT)  
+- Automated tuning using **FLAML**  
+- Presented at international conference
 
 👉 *[GitHub](https://github.com/Pravali2002/The-Crop-Recommendation-System)*  
+
+---
+
+## 🥘 Dishcovery — Food Analytics
+
+- Built interactive visualizations of regional cuisine patterns  
+- Used NLP for ingredient frequency analysis
+
+👉 *[GitHub](https://github.com/Pravali2002/Dishcovery)*
+
+---
+
+# 💼 Experience
+
+## AI Engineer — HydroTek Farm LLC  
+*Jan 2025 – Present*
+
+- Built end-to-end ML and LLM pipelines for plant disease detection, improving **top-3 accuracy by 52%**  
+- Developed **LLMOps pipelines using AWS Bedrock + Lambda** with monitoring via CloudWatch  
+- Implemented **LLM evaluation workflows using LangSmith** to reduce hallucination and improve reliability  
+
+---
+
+## Data Research Intern — Diyo Water  
+*Feb 2026 – Present*
+
+- Built **data ingestion pipelines combining web scraping and LLM-assisted extraction**  
+- Generated structured datasets of **1000+ venues**  
+- Developed validation and ranking pipelines improving dataset quality  
+
+---
+
+## AI Quality Assurance Intern — fAIshion Inc  
+*Dec 2025 – Mar 2026*
+
+- Evaluated AI model outputs across real-world scenarios and edge cases  
+- Designed QA workflows for **benchmarking model accuracy and reliability**  
+- Analyzed model failures and validated improvements  
+
+---
+
+## ML Open Source Contributor — HydroTek Farm LLC  
+*May 2024 – Nov 2024*
+
+- Improved computer vision models achieving **85%+ real-time detection accuracy**  
+- Built reproducible pipelines for model training and deployment  
+- Curated datasets used in production ML systems  
+
+---
+
+## Earlier Experience
+
+### Data Science Intern — LTI Mindtree  
+### Machine Learning Intern — Oriana Info Tech  
+
+- Worked on data analysis, ML modeling, and visualization for real-world datasets
 
 ---
 
@@ -149,7 +166,7 @@ S3 → Lambda → Bedrock → DynamoDB, deployed via SAM with CloudWatch alarms 
 ---
 
 # 🌐 **Let’s Connect** 
-  <a href="https://www.linkedin.com/in/somisetty-pravalika-48333a21a/" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/pravalika-somisetty-48333a21a/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
