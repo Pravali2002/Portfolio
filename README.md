@@ -5,8 +5,8 @@
 
 
 <p align="center">
-  <b>AI/ML Engineer specializing in LLM systems, agentic AI architectures, and cloud-native AI applications.</b><br>
-  I build end-to-end intelligent systems from data → models → production deployment.
+  <b>AI/ML Engineer building agentic AI systems and LLM-powered automation tools.</b><br>
+  I design production-ready AI systems that solve real-world workflow problems.
 </p>
 
 ---
@@ -18,6 +18,14 @@
 ⚙️ Building production AI systems using AWS + Google Cloud  
 🌱 Passionate about turning ideas → real-world AI products  
 📍 Frisco, TX (Open to relocation)
+
+---
+# ⚡ What I Build
+
+- Agentic AI systems for real-world workflows  
+- LLM-powered automation tools  
+- RAG pipelines with evaluation frameworks  
+- End-to-end AI systems from data → deployment
 
 ---
 
@@ -42,10 +50,12 @@
 ## ⚙️ AI DevOps Assistant  
 **Agentic AI + Cloud Infrastructure**
 
-- Built an **agentic AI system using MCP** to interact with AWS infrastructure  
-- Enabled **LLM tool-calling workflows** for CloudWatch logs and resource inspection  
-- Designed architecture: LLM → MCP tools → AWS APIs
-- Demonstrates **AI + cloud + system orchestration**
+- Designed to automate repetitive cloud infrastructure workflows (log inspection, resource monitoring, debugging) using LLM-driven tool execution  
+- Built an **agentic AI system using MCP** to enable structured interaction with AWS services  
+- Implemented **LLM tool-calling architecture** connecting reasoning → MCP tools → AWS APIs (CloudWatch, Lambda, IAM)  
+- Developed modular Python tool layers (boto3) for deterministic and reliable infrastructure operations  
+- Reduced manual debugging effort by enabling natural language queries over cloud systems
+- Demonstrates how agentic AI can replace manual DevOps workflows with intelligent automation
 
 👉 *[Github](https://github.com/Pravali2002/aws-devops-assistant)*  
 
@@ -56,7 +66,8 @@
 - Built RAG system on **2000+ pages of medical content**  
 - Achieved **94% accuracy** on exam-style questions  
 - Reduced hallucination by **37%**  
-- Designed FastAPI backend + retrieval pipeline  
+- Designed FastAPI backend + retrieval pipeline
+- Demonstrates how LLMs can automate knowledge retrieval workflows in real-world domains
 
 👉 *[GitHub](https://github.com/Pravali2002/ScrubPrep)* 
 
@@ -65,8 +76,8 @@
 ## 📈 CareerPulse — AI Agent System  
 
 - Built **agent-based AI assistant** deployed on Google Cloud Run  
-- Implemented MCP + ADK agents for structured tool-based reasoning  
-- Tracks learning progress, job applications, and user context  
+- Implemented MCP + ADK agents for structured tool-based reasoning
+- Automates tracking of learning progress and job workflows using agent-based reasoning  
 
 ---
 
@@ -117,7 +128,7 @@
 ## AI Engineer — HydroTek Farm LLC  
 *Jan 2025 – Present*
 
-- Built end-to-end ML and LLM pipelines for plant disease detection, improving **top-3 accuracy by 52%**  
+- Built end-to-end ML and LLM pipelines for plant disease detection, improving **top-3 accuracy by 52%** and enabling automated decision support for farm operations  
 - Developed **LLMOps pipelines using AWS Bedrock + Lambda** with monitoring via CloudWatch  
 - Implemented **LLM evaluation workflows using LangSmith** to reduce hallucination and improve reliability  
 
